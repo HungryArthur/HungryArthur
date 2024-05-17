@@ -12,8 +12,6 @@ I'm a Fullstack developer from Russia.
 
 I'm interested in web development and games.
 
-## 📌Pinned
-https://github-readme-stats.vercel.app/api/pin/?username=HungryArthur&repo=github-readme-stats
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
