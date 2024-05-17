@@ -10,14 +10,14 @@ I'm a Fullstack developer from Russia.
 I'm interested in web development and games.
 
 ## 📌Pinned
-![Readme Card](https://skillicons.dev/icons?i=dotnet,cs,py,java,html,css,postgres,sqlite&perline=7)
+![Readme Card]()
 
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,py,java,html,css,postgres,sqlite&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
     <h3>Software</h3>
