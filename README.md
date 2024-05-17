@@ -21,7 +21,7 @@ I'm interested in web development and games.
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,ultimate&perline=7" />
     <br>
   </p>
 </details>
@@ -34,6 +34,5 @@ I'm interested in web development and games.
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
-   <img src="" />
   </p>
 </details>
