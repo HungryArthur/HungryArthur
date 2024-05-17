@@ -4,14 +4,10 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
 
-I'm a backend developer from Russia, working at [@VladStandard](https://github.com/VladStandard) / [@Elixor](https://github.com/ElixorTeam).  
+I'm a Fullstack developer from Russia.
 
-I'm interested in web development, games. I hate JavaScript💀  
-At the same time, I upload videos on YouTube and teach students programming.
+I'm interested in web development and games.
 
 ## 📌Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaggerFast&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/BaggerFast/ItManuals)
