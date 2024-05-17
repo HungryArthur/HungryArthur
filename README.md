@@ -10,7 +10,6 @@ I'm a Fullstack developer from Russia.
 I'm interested in web development and games.
 
 ## 📌Pinned
-![Readme Card]()
 
 
 <details align="left">
