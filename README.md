@@ -8,18 +8,18 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/HungryArthur)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@leenme5227)
 
-I'm a Fullstack developer from Russia.
+I'm a Backend developer from Russia.
 
-I'm interested in web development and games.
+I'm interested in backend development and games.
 
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,go,kotlin,java,py,lua" />
+    <img src="https://skillicons.dev/icons?i=html,css,go,java,py,lua" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=windows,linux,apple,git,githubactions,react,django,docker,graphql,postgres,gradle" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,apple,git,githubactions,docker,graphql,postgres" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,stackoverflow,replit" />
     <br>
