@@ -19,9 +19,9 @@ I'm interested in backend development and games.
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=html,css,go,java,py,lua" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=windows,linux,apple,git,gitlab,bash,docker,kubernetes,postgres,kafka,redis,grafana,graphql,jenkins,mongodb,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,git,gitlab,bash,docker,kubernetes,postgres,kafka,redis,grafana,graphql,jenkins,mongodb,rabbitmq" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,stackoverflow,replit" />
+    <img src="https://skillicons.dev/icons?i=vscode,stackoverflow,replit" />
     <br>
   </p>
 </details>
@@ -31,8 +31,8 @@ I'm interested in backend development and games.
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungryArthur&layout=compact" />
-   <br>
+<!--    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=HungryArthur&show_icons=true&theme=radical" />
-    <br>
+    <br> -->
   </p>
 </details>
