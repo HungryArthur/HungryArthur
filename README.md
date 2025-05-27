@@ -21,7 +21,7 @@ I'm interested in backend development and games.
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=windows,linux,git,gitlab,bash,docker,kubernetes,postgres,kafka,redis,grafana,graphql,jenkins,mongodb,rabbitmq,prometheus" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,stackoverflow,replit" />
+    <img src="https://skillicons.dev/icons?i=vscode,stackoverflow,replit" />
     <br>
   </p>
 </details>
