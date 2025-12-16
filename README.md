@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello! I'm HungryArthur </h1>
+<h1 align="center">👋 Hello! I'm Arthur </h1>
 
 <p align="center">
- <img width="600" src="https://github.com/BaggerFast/BaggerFast/blob/main/assets/github-snake.svg?short_path=68e728e" alt="snake"/>
+ <img width="600" src="https://i.pinimg.com/1200x/82/58/c7/8258c77016195a4e5398186cc8900071.jpg" alt="snake"/>
 </p>
 
 ## About me
