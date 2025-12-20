@@ -15,7 +15,7 @@ I'm interested in backend development and Machine Learning.
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
-  <p>
+  <!-- <p> -->
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=html,css,go,py" />
     <h3>Frameworks / Tools</h3>
@@ -25,16 +25,16 @@ I'm interested in backend development and Machine Learning.
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=vscode,stackoverflow,replit" />
     <br>
-  </p>
+  <!-- </p> -->
 </details>
 
 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  <p>
+  <!-- <p> -->
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungryArthur&layout=compact" />
 <!--    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=HungryArthur&show_icons=true&theme=radical" />
     <br> -->
-  </p>
+  <!-- </p> -->
 </details>
