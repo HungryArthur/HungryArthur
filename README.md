@@ -16,14 +16,14 @@ I'm interested in backend development and Machine Learning.
 <!-- <details align="left"> -->
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
-    <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,go,py" />
-    <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=windows,linux,git,gitlab,bash,docker,kubernetes,postgres,kafka,redis" />
+    <h3>Languages & Frameworks</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,go,py,grpc" />
+    <h3>Data Stores</h3>
+    <img src="https://skillicons.dev/icons?i=postgres,kafka,redis,mongodb,airflow" />
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=linux,git,gitlab,bash,docker,kubernetes" />
     <h3>In the plans</h3>
-    <img src="https://skillicons.dev/icons?i=grafana,graphql,jenkins,rabbitmq,prometheus" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,stackoverflow,replit" />
+    <img src="https://skillicons.dev/icons?i=grafana,graphql,jenkins,rabbitmq,prometheus,elasticsearch" />
     <br>
   </p>
 <!-- </details> -->
