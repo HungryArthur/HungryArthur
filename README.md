@@ -10,7 +10,7 @@
 
 I'm a Backend developer from Russia.
 
-I'm interested in backend development and Machine Learning.
+I'm interested in Backend development and Machine Learning.
 
 
 <!-- <details align="left"> -->
