@@ -9,7 +9,7 @@
 <div align="center">
   
   [![Telegram](./logo/Telegram_logo.svg)](https://t.me/HungryArthur)
-  [![YouTube](./logo/YouTube_logo.svg)](https://www.youtube.com/@HungryDeveloperGo)
+  [![YouTube](./logo/YouTube_logo.svg)](https://www.youtube.com/@ArthurAmaryan)
   
 </div>
 
