@@ -173,7 +173,7 @@ I'm interested in Backend development and Machine Learning.
     </td>
     <td align="center" width="100">
       <a>
-        <img src="./icon/Gitlab-Dark.svg" width="50" height="50" alt="Gitlab"/>
+        <img src="./icon/GitLab-Dark.svg" width="50" height="50" alt="Gitlab"/>
         <br><b>Gitlab</b>
       </a>
     </td>
