@@ -81,8 +81,14 @@ I'm interested in Backend development and Machine Learning.
     </td>
     <td align="center" width="120">
       <a>
-        <img src="./icon/Jenkins-Dark.svg" width="60" height="60" alt="Jenkins"/>
-        <br><b>Jenkins</b>
+        <img src="./icon/MongoDB.svg" width="60" height="60" alt="MongoDB"/>
+        <br><b>MongoDB</b>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a>
+        <img src="./icon/S3.png" width="60" height="60" alt="S3"/>
+        <br><b>S3</b>
       </a>
     </td>
     <td align="center" width="120">
@@ -95,12 +101,6 @@ I'm interested in Backend development and Machine Learning.
       <a>
         <img src="./icon/Prometheus.svg" width="60" height="60" alt="Prometheus"/>
         <br><b>Prometheus</b>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a>
-        <img src="./icon/RabbitMQ-Dark.svg" width="60" height="60" alt="RabbitMQ"/>
-        <br><b>RabbitMQ</b>
       </a>
     </td>
     <td align="center" width="120">
